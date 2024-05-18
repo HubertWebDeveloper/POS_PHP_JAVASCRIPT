@@ -1,7 +1,7 @@
 <nav class="sb-topnav navbar navbar-expand navbar-dark bg-dark"style="background: rgb(2,0,36);
 background: linear-gradient(356deg, rgba(2,0,36,1) 0%, rgba(255,255,255,1) 0%, rgba(173,241,255,1) 100%)">
     <!-- Navbar Brand-->
-    <a class="navbar-brand ps-3" href="index.html"style="color:black">Start Bootstrap</a>
+    <a class="navbar-brand ps-3" href="index.html"style="color:black">POS SYSTEM JAVASCRIPT</a>
     <!-- Sidebar Toggle-->
     <button class="btn btn-link btn-sm order-1 order-lg-0 me-4 me-lg-0" style="color:black"id="sidebarToggle" href="#!"><i class="fas fa-bars"></i></button>
     <!-- Navbar Search-->
